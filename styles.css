@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+
+}
+h3{
+  text-align: center;
+}
+img {
+  width: 250px;
+  height: 250px;
+  object-fit:cover;
+}
